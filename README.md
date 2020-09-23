@@ -1,2 +1,2 @@
-# myOwnLib-C21
-bounceOff() and isTouching() library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
